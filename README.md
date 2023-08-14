@@ -9,9 +9,9 @@ If the length of the word is odd, it returns the middle character.
 If the length of the word is even, it returns the middle two characters using slicing.
 ### Function Signature
 python
-def get_middle_characters(word):
     
-    Returns the middle character or characters of a word.
+    def get_middle_characters(word):
+    -Returns the middle character or characters of a word.
 
     Parameters:
     - word (str): The input word.
